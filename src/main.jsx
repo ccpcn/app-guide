@@ -55,7 +55,32 @@ console.log("Translated heading:", t("heading"));
  async function copyLink(id){const url=new URL(window.location.href);url.hash=id;try{await navigator.clipboard.writeText(url.toString());setCopied(id);}catch{window.prompt('Copy this link:',url.toString());}}
  return <>
   <a className="skip-link" href="#main">{t('skip')}</a>
-  <header className="site-header" id="top"><div className="container header-content"><div className="brand"><img src="/images/che_Logo.jpg" alt="Camden GP Federation and Central Camden" onError={e=>{e.currentTarget.hidden=true;e.currentTarget.nextElementSibling.hidden=false;}}/><span hidden className="brand-fallback">Camden GP Federation <span aria-hidden="true">|</span> Central Camden</span></div><div className="language-control"><label htmlFor="language">{t('language')}</label><select id="language" value={lang} onChange={changeLang}>{approvedLanguages.map(l=><option key={l.code} value={l.code}>{l.name}</option>)}</select></div></div></header>
+<header className="site-header">
+  <div className="header-logo">
+    <img
+      src="/che-logo.png"
+      alt="Camden GP Federation and Central Camden"
+    />
+  </div>
+
+  <div className="language-selector">
+    <label htmlFor="language-select">
+      {t('language')}
+    </label>
+
+    <select
+      id="language-select"
+      value={lang}
+      onChange={changeLang}
+    >
+      {approvedLanguages.map((language) => (
+        <option key={language.code} value={language.code}>
+          {language.name}
+        </option>
+      ))}
+    </select>
+  </div>
+</header>
   <main id="main">
    <section className="hero" aria-labelledby="page-heading"><div className="container hero-content">
     <img className="hero-image" src="/images/nhs-app-hero.png" alt="NHS App logo and smartphone with a heart symbol" width="400" height="200"/>
