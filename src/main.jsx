@@ -3,6 +3,7 @@ import {createRoot} from 'react-dom/client';
 import {useTranslation} from 'react-i18next';
 import i18n, {updateDocumentLanguage} from './i18n';
 import './styles.css';
+import cheLogo from './assets/che_Logo.jpg';
 
 const icons=['📱','💬','🧪','💊','🗓️','🏥','🔔','👥'];
 //########### Add translation here ###########
@@ -58,7 +59,7 @@ console.log("Translated heading:", t("heading"));
 <header className="site-header">
   <div className="header-logo">
     <img
-      src="/che-logo.png"
+      src={cheLogo}
       alt="Camden GP Federation and Central Camden"
     />
   </div>
