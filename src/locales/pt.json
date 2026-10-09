@@ -1,0 +1,123 @@
+{
+  "_translationStatus": "DRAFT — replace all English text with professionally reviewed translations before enabling this language",
+  "language": "Language",
+  "heading": "Your NHS App:",
+  "tagline": "Easy Access to Your Care Anytime",
+  "features": "NHS App Features",
+  "download": "Download the NHS App",
+  "otherDownload": "Other ways to download the NHS App",
+  "expand": "Expand all",
+  "close": "Close all",
+  "help": "Need more help?",
+  "helpText": "Contact your GP surgery for help with services provided by your practice, or visit the official NHS App help centre.",
+  "official": "Official NHS App help",
+  "emergency": "For a life-threatening emergency call 999. For urgent medical help use NHS 111.",
+  "back": "Back to top",
+  "skip": "Skip to main content",
+  "video": "Watch official NHS App video guides",
+  "note": "Good to know",
+  "copy": "Copy link to this guide",
+  "copied": "Link copied",
+  "footer": "Patient information guide · Content review required before publication",
+  "disclaimer": "This is an informational guide, not the NHS App. Never enter NHS login details on this page.",
+  "loginPrefix": "Open the NHS App and ",
+  "loginLink": "create or sign in to your NHS login",
+  "loginSuffix": " using your email address (official NHS website).",
+  "featureLabels": [
+    "Contact Your GP Surgery",
+    "View Test Results",
+    "Order Repeat Prescriptions",
+    "GP Surgery Appointments",
+    "Hospital Referrals",
+    "Messages",
+    "Manage services for someone else"
+  ],
+  "sections": [
+    {
+      "id": "getting-started",
+      "title": "Getting started",
+      "steps": [
+        "Download the NHS App from the App Store or Google Play.",
+        "Open the app and create an NHS login with your email address, or sign in if you already have one.",
+        "Follow the instructions to verify your identity if asked.",
+        "Once signed in, open Profile and look for login settings to enable fingerprint or face recognition if your device supports it."
+      ],
+      "note": "You must be aged 13 or over and registered with a GP surgery in England to use NHS App services."
+    },
+    {
+      "id": "contact-gp",
+      "title": "Contact your GP surgery",
+      "steps": [
+        "Open the NHS App and look for Appointments or the option to contact your GP surgery.",
+        "Choose Contact your GP surgery if it is available.",
+        "Complete and submit the online form.",
+        "Your surgery will explain how and when they will respond."
+      ],
+      "note": "This service depends on your GP surgery. Do not use an online form for emergencies."
+    },
+    {
+      "id": "test-results",
+      "title": "View test results",
+      "steps": [
+        "Select Test results in the NHS App.",
+        "Read the important information and select Continue if prompted.",
+        "View any test results available to you."
+      ],
+      "note": "Not every result will be available immediately. Contact your care team if you have questions about a result."
+    },
+    {
+      "id": "prescriptions",
+      "title": "Order repeat prescriptions",
+      "steps": [
+        "Select Prescriptions.",
+        "Choose Request or view prescriptions.",
+        "Select the repeat medicines you need.",
+        "Check and submit your request.",
+        "Use the NHS App to check progress where this feature is available."
+      ],
+      "note": "Request repeat medicines in good time. Some medicines cannot be requested through the app."
+    },
+    {
+      "id": "gp-appointments",
+      "title": "GP surgery appointments",
+      "steps": [
+        "Select Appointments.",
+        "View your GP appointments.",
+        "Book, change or cancel an appointment if your GP surgery offers these options."
+      ],
+      "note": "Appointment availability and options vary by surgery."
+    },
+    {
+      "id": "hospital-appointments",
+      "title": "Hospital referrals and appointments",
+      "steps": [
+        "Select Appointments.",
+        "Look for Hospital referrals and appointments.",
+        "View available referral, waiting-list or appointment information.",
+        "Where supported, follow the instructions to manage an appointment."
+      ],
+      "note": "What you can see and manage depends on the hospital or provider."
+    },
+    {
+      "id": "messages",
+      "title": "Messages and notifications",
+      "steps": [
+        "Select Messages to read messages from your GP surgery, hospital or other NHS services.",
+        "To manage alerts, open Profile and look for Notifications.",
+        "Follow your device instructions to allow NHS App notifications."
+      ],
+      "note": "Notification options can vary by device."
+    },
+    {
+      "id": "family-access",
+      "title": "Manage services for someone else",
+      "steps": [
+        "Open Profile.",
+        "Select Family and carer access if available.",
+        "Choose the person whose services you are authorised to manage.",
+        "Use the services available for that person and switch back to your own profile when finished."
+      ],
+      "note": "You must have appropriate permission to access another person’s NHS services."
+    }
+  ]
+}

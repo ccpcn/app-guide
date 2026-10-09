@@ -1,0 +1,122 @@
+{
+  "language": "Idioma",
+  "heading": "Tu aplicación NHS:",
+  "tagline": "Accede fácilmente a tu atención sanitaria en cualquier momento",
+  "features": "Funciones de la aplicación NHS",
+  "download": "Descargar la aplicación NHS",
+  "otherDownload": "Otras formas de descargar la aplicación NHS",
+  "expand": "Desplegar todo",
+  "close": "Cerrar todo",
+  "help": "¿Necesitas más ayuda?",
+  "helpText": "Ponte en contacto con tu centro de medicina general (GP) para obtener ayuda con los servicios que ofrece, o visita el centro de ayuda oficial de la aplicación NHS.",
+  "official": "Ayuda oficial de la aplicación NHS",
+  "emergency": "Si se trata de una emergencia que pone en peligro la vida, llama al 999. Para recibir ayuda médica urgente, utiliza NHS 111.",
+  "back": "Volver arriba",
+  "skip": "Ir al contenido principal",
+  "video": "Ver los vídeos de ayuda oficiales de la aplicación NHS",
+  "note": "Información importante",
+  "copy": "Copiar el enlace a esta guía",
+  "copied": "Enlace copiado",
+  "footer": "Guía informativa para pacientes · El contenido debe revisarse antes de su publicación",
+  "disclaimer": "Esta es una guía informativa, no la aplicación NHS. Nunca introduzcas tus datos de acceso a NHS en esta página.",
+  "loginPrefix": "Abre la aplicación NHS y ",
+  "loginLink": "crea una cuenta NHS login o inicia sesión",
+  "loginSuffix": " con tu dirección de correo electrónico (sitio web oficial de NHS).",
+  "featureLabels": [
+    "Contactar con tu centro de medicina general",
+    "Consultar los resultados de las pruebas",
+    "Solicitar la renovación de recetas",
+    "Citas en tu centro de medicina general",
+    "Derivaciones hospitalarias",
+    "Mensajes",
+    "Gestionar los servicios de otra persona"
+  ],
+  "sections": [
+    {
+      "id": "getting-started",
+      "title": "Cómo empezar",
+      "steps": [
+        "Descarga la aplicación NHS desde App Store o Google Play.",
+        "Abre la aplicación y crea una cuenta NHS login con tu dirección de correo electrónico, o inicia sesión si ya tienes una.",
+        "Sigue las instrucciones para verificar tu identidad si se te solicita.",
+        "Una vez que hayas iniciado sesión, abre Profile (Perfil) y busca la configuración de inicio de sesión para activar el reconocimiento de huellas dactilares o facial si tu dispositivo lo permite."
+      ],
+      "note": "Debes tener al menos 13 años y estar inscrito en un centro de medicina general (GP) en Inglaterra para utilizar los servicios de la aplicación NHS."
+    },
+    {
+      "id": "contact-gp",
+      "title": "Contactar con tu centro de medicina general",
+      "steps": [
+        "Abre la aplicación NHS y busca Appointments (Citas) o la opción para contactar con tu centro de medicina general.",
+        "Selecciona Contact your GP surgery (Contactar con tu centro de medicina general), si está disponible.",
+        "Rellena y envía el formulario en línea.",
+        "Tu centro te indicará cómo y cuándo responderá."
+      ],
+      "note": "Este servicio depende de tu centro de medicina general. No utilices un formulario en línea para emergencias."
+    },
+    {
+      "id": "test-results",
+      "title": "Consultar los resultados de las pruebas",
+      "steps": [
+        "Selecciona Test results (Resultados de las pruebas) en la aplicación NHS.",
+        "Lee la información importante y selecciona Continue (Continuar) si se te solicita.",
+        "Consulta los resultados de las pruebas que estén disponibles para ti."
+      ],
+      "note": "Es posible que algunos resultados no estén disponibles inmediatamente. Ponte en contacto con tu equipo sanitario si tienes preguntas sobre algún resultado."
+    },
+    {
+      "id": "prescriptions",
+      "title": "Solicitar la renovación de recetas",
+      "steps": [
+        "Selecciona Prescriptions (Recetas).",
+        "Selecciona Request or view prescriptions (Solicitar o consultar recetas).",
+        "Selecciona los medicamentos que tomas de forma habitual y que necesitas.",
+        "Revisa y envía tu solicitud.",
+        "Utiliza la aplicación NHS para consultar el estado de tu solicitud cuando esta función esté disponible."
+      ],
+      "note": "Solicita tus medicamentos habituales con suficiente antelación. Algunos medicamentos no se pueden solicitar a través de la aplicación."
+    },
+    {
+      "id": "gp-appointments",
+      "title": "Citas en tu centro de medicina general",
+      "steps": [
+        "Selecciona Appointments (Citas).",
+        "Consulta tus citas con el médico de medicina general.",
+        "Reserva, cambia o cancela una cita si tu centro ofrece estas opciones."
+      ],
+      "note": "La disponibilidad de citas y las opciones varían según el centro."
+    },
+    {
+      "id": "hospital-appointments",
+      "title": "Derivaciones y citas hospitalarias",
+      "steps": [
+        "Selecciona Appointments (Citas).",
+        "Busca Hospital referrals and appointments (Derivaciones y citas hospitalarias).",
+        "Consulta la información disponible sobre derivaciones, listas de espera o citas.",
+        "Cuando esté disponible, sigue las instrucciones para gestionar una cita."
+      ],
+      "note": "La información que puedes consultar y las gestiones que puedes realizar dependen del hospital o proveedor sanitario."
+    },
+    {
+      "id": "messages",
+      "title": "Mensajes y notificaciones",
+      "steps": [
+        "Selecciona Messages (Mensajes) para leer los mensajes de tu centro de medicina general, hospital u otros servicios de NHS.",
+        "Para gestionar las alertas, abre Profile (Perfil) y busca Notifications (Notificaciones).",
+        "Sigue las instrucciones de tu dispositivo para permitir las notificaciones de la aplicación NHS."
+      ],
+      "note": "Las opciones de notificación pueden variar según el dispositivo."
+    },
+    {
+      "id": "family-access",
+      "title": "Gestionar los servicios de otra persona",
+      "steps": [
+        "Abre Profile (Perfil).",
+        "Selecciona Family and carer access (Acceso para familiares y cuidadores), si está disponible.",
+        "Elige a la persona cuyos servicios estás autorizado a gestionar.",
+        "Utiliza los servicios disponibles para esa persona y vuelve a tu propio perfil cuando hayas terminado."
+      ],
+      "note": "Debes contar con la autorización correspondiente para acceder a los servicios NHS de otra persona."
+    }
+  ]
+}

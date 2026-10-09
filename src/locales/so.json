@@ -1,0 +1,122 @@
+{
+  "language": "Luqadda",
+  "heading": "NHS App-kaaga:",
+  "tagline": "Si fudud u hel adeegyada daryeelkaaga caafimaad wakhti kasta",
+  "features": "Adeegyada NHS App",
+  "download": "Soo dejiso NHS App",
+  "otherDownload": "Siyaabo kale oo lagu soo dejisto NHS App",
+  "expand": "Dhammaan fur",
+  "close": "Dhammaan xir",
+  "help": "Ma u baahan tahay caawimo dheeraad ah?",
+  "helpText": "La xiriir xarunta dhakhtarkaaga guud (GP) haddii aad caawimo uga baahan tahay adeegyada ay bixiso, ama booqo xarunta caawimada rasmiga ah ee NHS App.",
+  "official": "Caawimada rasmiga ah ee NHS App",
+  "emergency": "Haddii ay jirto xaalad degdeg ah oo nafta halis gelinaysa, wac 999. Haddii aad u baahan tahay caawimo caafimaad oo degdeg ah, isticmaal NHS 111.",
+  "back": "Ku noqo korka bogga",
+  "skip": "U gudub nuxurka ugu muhiimsan",
+  "video": "Daawo fiidyowyada hagitaanka rasmiga ah ee NHS App",
+  "note": "Waxaa fiican inaad ogaato",
+  "copy": "Nuqul ka samee xiriiriyaha hagahan",
+  "copied": "Xiriiriyaha waa la koobiyeeyay",
+  "footer": "Hagaha macluumaadka bukaanka · Waa in nuxurka dib loo eego ka hor daabacaadda",
+  "disclaimer": "Kani waa hage macluumaad oo keliya, mana aha NHS App. Weligaa ha gelin faahfaahinta gelitaanka NHS boggan.",
+  "loginPrefix": "Fur NHS App oo ",
+  "loginLink": "samee NHS login ama ku gal akoonkaaga NHS",
+  "loginSuffix": " adigoo isticmaalaya cinwaanka iimaylkaaga (bogga rasmiga ah ee NHS).",
+  "featureLabels": [
+    "La xiriir xarunta dhakhtarkaaga guud",
+    "Arag natiijooyinka baaritaannada",
+    "Dalbo daawooyinka joogtada ah ee laguu qoro",
+    "Ballamaha xarunta dhakhtarka guud",
+    "Gudbinnada isbitaalka",
+    "Farriimaha",
+    "Maamul adeegyada qof kale"
+  ],
+  "sections": [
+    {
+      "id": "getting-started",
+      "title": "Sida loo bilaabo",
+      "steps": [
+        "Ka soo dejiso NHS App App Store ama Google Play.",
+        "Fur app-ka oo samee NHS login adigoo isticmaalaya cinwaanka iimaylkaaga, ama gal haddii aad hore u lahayd.",
+        "Raac tilmaamaha lagu xaqiijinayo aqoonsigaaga haddii lagaa codsado.",
+        "Markaad gasho, fur Profile oo ka raadi dejimaha gelitaanka si aad u hawlgeliso aqoonsiga faraha ama wejiga haddii qalabkaagu taageero."
+      ],
+      "note": "Waa inaad jirtaa 13 sano ama ka weyn oo aad ka diiwaangashan tahay xarun dhakhtar guud (GP) oo ku taal England si aad u isticmaasho adeegyada NHS App."
+    },
+    {
+      "id": "contact-gp",
+      "title": "La xiriir xarunta dhakhtarkaaga guud",
+      "steps": [
+        "Fur NHS App oo ka raadi Appointments ama ikhtiyaarka lagula xiriirayo xarunta dhakhtarkaaga guud.",
+        "Dooro Contact your GP surgery haddii ikhtiyaarkaas la heli karo.",
+        "Buuxi foomka internetka oo dir.",
+        "Xaruntaadu waxay kuu sheegi doontaa sida iyo goorta ay kuugu jawaabi doonto."
+      ],
+      "note": "Helitaanka adeeggan wuxuu ku xiran yahay xarunta dhakhtarkaaga guud. Ha isticmaalin foomka internetka xaaladaha degdegga ah."
+    },
+    {
+      "id": "test-results",
+      "title": "Arag natiijooyinka baaritaannada",
+      "steps": [
+        "Ka dooro Test results gudaha NHS App.",
+        "Akhri macluumaadka muhiimka ah oo dooro Continue haddii lagu weydiiyo.",
+        "Arag natiijooyinka baaritaannada ee kuu diyaar ah."
+      ],
+      "note": "Natiijooyinka oo dhan isla markiiba lama heli karo. La xiriir kooxdaada daryeelka caafimaadka haddii aad su'aalo ka qabto natiijo."
+    },
+    {
+      "id": "prescriptions",
+      "title": "Dalbo daawooyinka joogtada ah ee laguu qoro",
+      "steps": [
+        "Dooro Prescriptions.",
+        "Dooro Request or view prescriptions.",
+        "Dooro daawooyinka joogtada ah ee aad u baahan tahay.",
+        "Hubi codsigaaga oo dir.",
+        "Isticmaal NHS App si aad ula socoto halka uu marayo codsigaagu haddii adeeggan la heli karo."
+      ],
+      "note": "Codso daawooyinkaaga joogtada ah waqti fiican ka hor inta aysan kaa dhammaan. Daawooyinka qaarkood lagama codsan karo app-ka."
+    },
+    {
+      "id": "gp-appointments",
+      "title": "Ballamaha xarunta dhakhtarka guud",
+      "steps": [
+        "Dooro Appointments.",
+        "Arag ballamahaaga dhakhtarka guud.",
+        "Ballan qabso, beddel ama jooji haddii xarunta dhakhtarkaaga guud ay bixiso ikhtiyaarradan."
+      ],
+      "note": "Ballamaha la heli karo iyo ikhtiyaarradu way ku kala duwan yihiin xarumaha."
+    },
+    {
+      "id": "hospital-appointments",
+      "title": "Gudbinnada iyo ballamaha isbitaalka",
+      "steps": [
+        "Dooro Appointments.",
+        "Ka raadi Hospital referrals and appointments.",
+        "Arag macluumaadka la heli karo ee ku saabsan gudbinnada, liisaska sugitaanka ama ballamaha.",
+        "Haddii la taageero, raac tilmaamaha si aad u maamusho ballantaada."
+      ],
+      "note": "Waxa aad arki karto ama maamuli karto waxay ku xiran yihiin isbitaalka ama adeeg-bixiyaha."
+    },
+    {
+      "id": "messages",
+      "title": "Farriimaha iyo ogeysiisyada",
+      "steps": [
+        "Dooro Messages si aad u akhrido farriimaha ka yimaada xarunta dhakhtarkaaga guud, isbitaalka ama adeegyada kale ee NHS.",
+        "Si aad u maamusho digniinaha, fur Profile oo ka raadi Notifications.",
+        "Raac tilmaamaha qalabkaaga si aad u oggolaato ogeysiisyada NHS App."
+      ],
+      "note": "Ikhtiyaarrada ogeysiisyadu way ku kala duwanaan karaan qalabka."
+    },
+    {
+      "id": "family-access",
+      "title": "Maamul adeegyada qof kale",
+      "steps": [
+        "Fur Profile.",
+        "Dooro Family and carer access haddii la heli karo.",
+        "Dooro qofka laguu oggolaaday inaad maamusho adeegyadiisa.",
+        "Isticmaal adeegyada qofkaas loo heli karo, dabadeedna ku noqo boggaaga gaarka ah markaad dhammayso."
+      ],
+      "note": "Waa inaad haysataa oggolaansho ku habboon si aad u gasho adeegyada NHS ee qof kale."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "language": "Limba",
+  "heading": "Aplicația ta NHS:",
+  "tagline": "Acces ușor la serviciile tale de sănătate, oricând",
+  "features": "Funcțiile aplicației NHS",
+  "download": "Descarcă aplicația NHS",
+  "otherDownload": "Alte modalități de a descărca aplicația NHS",
+  "expand": "Extinde toate secțiunile",
+  "close": "Închide toate secțiunile",
+  "help": "Ai nevoie de mai mult ajutor?",
+  "helpText": "Contactează cabinetul medicului tău de familie (GP) pentru ajutor privind serviciile oferite de acesta sau vizitează centrul oficial de asistență pentru aplicația NHS.",
+  "official": "Asistență oficială pentru aplicația NHS",
+  "emergency": "În cazul unei urgențe care pune viața în pericol, sună la 999. Pentru ajutor medical urgent, folosește NHS 111.",
+  "back": "Înapoi sus",
+  "skip": "Sari la conținutul principal",
+  "video": "Urmărește ghidurile video oficiale pentru aplicația NHS",
+  "note": "Bine de știut",
+  "copy": "Copiază linkul către acest ghid",
+  "copied": "Link copiat",
+  "footer": "Ghid de informare pentru pacienți · Conținutul trebuie verificat înainte de publicare",
+  "disclaimer": "Acesta este un ghid informativ, nu aplicația NHS. Nu introduce niciodată datele de autentificare NHS pe această pagină.",
+  "loginPrefix": "Deschide aplicația NHS și ",
+  "loginLink": "creează un cont NHS login sau autentifică-te",
+  "loginSuffix": " folosind adresa ta de e-mail (pe site-ul oficial NHS).",
+  "featureLabels": [
+    "Contactează cabinetul medicului de familie",
+    "Consultă rezultatele analizelor",
+    "Solicită reînnoirea rețetelor pentru tratamentul regulat",
+    "Programări la medicul de familie",
+    "Trimiteri către spital",
+    "Mesaje",
+    "Gestionează serviciile pentru altcineva"
+  ],
+  "sections": [
+    {
+      "id": "getting-started",
+      "title": "Cum începi",
+      "steps": [
+        "Descarcă aplicația NHS din App Store sau Google Play.",
+        "Deschide aplicația și creează un cont NHS login folosind adresa ta de e-mail sau autentifică-te dacă ai deja un cont.",
+        "Urmează instrucțiunile pentru verificarea identității, dacă ți se solicită.",
+        "După autentificare, deschide Profile (Profil) și caută setările de autentificare pentru a activa recunoașterea amprentei sau a feței, dacă dispozitivul tău permite acest lucru."
+      ],
+      "note": "Trebuie să ai cel puțin 13 ani și să fii înregistrat la un cabinet de medicină de familie (GP) din Anglia pentru a utiliza serviciile aplicației NHS."
+    },
+    {
+      "id": "contact-gp",
+      "title": "Contactează cabinetul medicului de familie",
+      "steps": [
+        "Deschide aplicația NHS și caută Appointments (Programări) sau opțiunea de a contacta cabinetul medicului de familie.",
+        "Selectează Contact your GP surgery (Contactează cabinetul medicului de familie), dacă opțiunea este disponibilă.",
+        "Completează și trimite formularul online.",
+        "Cabinetul îți va explica cum și când îți va răspunde."
+      ],
+      "note": "Disponibilitatea acestui serviciu depinde de cabinetul medicului de familie. Nu folosi formularul online în situații de urgență."
+    },
+    {
+      "id": "test-results",
+      "title": "Consultă rezultatele analizelor",
+      "steps": [
+        "Selectează Test results (Rezultatele analizelor) în aplicația NHS.",
+        "Citește informațiile importante și selectează Continue (Continuă), dacă ți se solicită.",
+        "Consultă rezultatele analizelor care sunt disponibile pentru tine."
+      ],
+      "note": "Este posibil ca unele rezultate să nu fie disponibile imediat. Contactează echipa medicală dacă ai întrebări despre un rezultat."
+    },
+    {
+      "id": "prescriptions",
+      "title": "Solicită reînnoirea rețetelor pentru tratamentul regulat",
+      "steps": [
+        "Selectează Prescriptions (Rețete).",
+        "Selectează Request or view prescriptions (Solicită sau consultă rețetele).",
+        "Alege medicamentele pe care le iei în mod regulat și de care ai nevoie.",
+        "Verifică și trimite solicitarea.",
+        "Folosește aplicația NHS pentru a urmări stadiul solicitării, dacă această funcție este disponibilă."
+      ],
+      "note": "Solicită medicamentele pentru tratamentul regulat din timp. Unele medicamente nu pot fi solicitate prin aplicație."
+    },
+    {
+      "id": "gp-appointments",
+      "title": "Programări la medicul de familie",
+      "steps": [
+        "Selectează Appointments (Programări).",
+        "Consultă programările tale la medicul de familie.",
+        "Fă, modifică sau anulează o programare dacă aceste opțiuni sunt oferite de cabinetul tău."
+      ],
+      "note": "Disponibilitatea programărilor și opțiunile oferite diferă de la un cabinet la altul."
+    },
+    {
+      "id": "hospital-appointments",
+      "title": "Trimiteri și programări la spital",
+      "steps": [
+        "Selectează Appointments (Programări).",
+        "Caută Hospital referrals and appointments (Trimiteri și programări la spital).",
+        "Consultă informațiile disponibile despre trimiteri, liste de așteptare sau programări.",
+        "Dacă funcția este disponibilă, urmează instrucțiunile pentru a gestiona o programare."
+      ],
+      "note": "Informațiile pe care le poți vedea și acțiunile pe care le poți efectua depind de spital sau de furnizorul de servicii."
+    },
+    {
+      "id": "messages",
+      "title": "Mesaje și notificări",
+      "steps": [
+        "Selectează Messages (Mesaje) pentru a citi mesajele de la cabinetul medicului de familie, spital sau alte servicii NHS.",
+        "Pentru a gestiona alertele, deschide Profile (Profil) și caută Notifications (Notificări).",
+        "Urmează instrucțiunile dispozitivului pentru a permite notificările aplicației NHS."
+      ],
+      "note": "Opțiunile de notificare pot varia în funcție de dispozitiv."
+    },
+    {
+      "id": "family-access",
+      "title": "Gestionează serviciile pentru altcineva",
+      "steps": [
+        "Deschide Profile (Profil).",
+        "Selectează Family and carer access (Acces pentru familie și îngrijitori), dacă opțiunea este disponibilă.",
+        "Alege persoana ale cărei servicii ai permisiunea să le gestionezi.",
+        "Folosește serviciile disponibile pentru acea persoană, apoi revino la profilul tău când ai terminat."
+      ],
+      "note": "Trebuie să ai permisiunea corespunzătoare pentru a accesa serviciile NHS ale altei persoane."
+    }
+  ]
+}
