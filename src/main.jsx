@@ -64,16 +64,14 @@ console.log("Translated heading:", t("heading"));
     />
   </div>
 
-  <div className="language-selector">
-    <label htmlFor="language-select">
-      {t('language')}
-    </label>
+<div className="language-selector">
+  <label htmlFor="language-select">Language</label>
 
-    <select
-      id="language-select"
-      value={lang}
-      onChange={changeLang}
-    >
+  <select
+    id="language-select"
+    value={language}
+    onChange={handleLanguageChange}
+  >
       {approvedLanguages.map((language) => (
         <option key={language.code} value={language.code}>
           {language.name}
