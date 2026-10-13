@@ -70,8 +70,8 @@ console.log("Translated heading:", t("heading"));
 
       <select
         id="language-select"
-        value={language}
-        onChange={handleLanguageChange}
+        value={i18n.resolvedLanguage || i18n.language}
+        onChange={(e) => i18n.changeLanguage(e.target.value)}
       >
       {approvedLanguages.map((language) => (
         <option key={language.code} value={language.code}>
