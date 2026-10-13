@@ -57,21 +57,22 @@ console.log("Translated heading:", t("heading"));
  return <>
   <a className="skip-link" href="#main">{t('skip')}</a>
 <header className="site-header">
-  <div className="header-logo">
-    <img
-      src={cheLogo}
-      alt="Camden GP Federation and Central Camden"
-    />
-  </div>
+  <div className="container header-content">
 
-<div className="language-selector">
-  <label htmlFor="language-select">Language</label>
+    <div className="brand">
+      <img src={cheLogo} alt="Camden GP Federation" />
+    </div>
 
-  <select
-    id="language-select"
-    value={language}
-    onChange={handleLanguageChange}
-  >
+    <div className="language-control">
+      <label htmlFor="language-select">
+        Language
+      </label>
+
+      <select
+        id="language-select"
+        value={language}
+        onChange={handleLanguageChange}
+      >
       {approvedLanguages.map((language) => (
         <option key={language.code} value={language.code}>
           {language.name}
