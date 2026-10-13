@@ -61,8 +61,6 @@ console.log("Translated heading:", t("heading"));
     <img
       src={cheLogo}
       alt="Camden GP Federation and Central Camden"
-      width="450" 
-      height="175"
     />
   </div>
 
