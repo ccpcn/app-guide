@@ -4,7 +4,7 @@
   "tagline": "Quick Setup Guide",
   "features": "NHS App Features",
   "download": "Download the NHS App",
-  "otherDownload": "Other ways to download the NHS App",
+  "otherDownload": "Other ways to access the NHS App",
   "expand": "Expand all",
   "close": "Close all",
   "help": "Need more help?",
@@ -17,8 +17,8 @@
   "note": "Good to know",
   "copy": "Copy link to this guide",
   "copied": "Link copied",
-  "footer": "Patient information guide",
-  "disclaimer": "This is an informational guide, not the NHS App.",
+  "disclaimer": "This is an informational guide only, not the nhs app.",
+  "information": "For more information visit: ",
   "loginPrefix": "Open the NHS App and ",
   "loginLink": "create or sign in to your NHS login",
   "loginSuffix": " using your email address (official NHS website).",
@@ -47,8 +47,9 @@
       "id": "contact-gp",
       "title": "Contact your GP surgery",
       "steps": [
-        "Open the NHS App and look for Appointments or the option to contact your GP surgery.",
-        "Choose Contact your GP surgery if it is available.",
+        "Open the NHS App and select Appointments.",
+        "Choose Book an appointment.",
+        "Choose Ask about a health problem.",
         "Complete and submit the online form.",
         "Your surgery will explain how and when they will respond."
       ],
@@ -81,8 +82,7 @@
       "title": "GP surgery appointments",
       "steps": [
         "Select Appointments.",
-        "View your GP appointments.",
-        "Book, change or cancel an appointment if your GP surgery offers these options."
+        "Select Manage GP appointments."
       ],
       "note": "Appointment availability and options vary by surgery."
     },

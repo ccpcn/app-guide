@@ -19,6 +19,7 @@
   "copied": "Enlace copiado",
   "footer": "Guía informativa para pacientes · El contenido debe revisarse antes de su publicación",
   "disclaimer": "Esta es una guía informativa, no la aplicación NHS. Nunca introduzcas tus datos de acceso a NHS en esta página.",
+  "information": "Para obtener más información, visite: ",
   "loginPrefix": "Abre la aplicación NHS y ",
   "loginLink": "crea una cuenta NHS login o inicia sesión",
   "loginSuffix": " con tu dirección de correo electrónico (sitio web oficial de NHS).",
@@ -47,10 +48,11 @@
       "id": "contact-gp",
       "title": "Contactar con tu centro de medicina general",
       "steps": [
-        "Abre la aplicación NHS y busca Appointments (Citas) o la opción para contactar con tu centro de medicina general.",
-        "Selecciona Contact your GP surgery (Contactar con tu centro de medicina general), si está disponible.",
-        "Rellena y envía el formulario en línea.",
-        "Tu centro te indicará cómo y cuándo responderá."
+  "Abra la aplicación NHS App y seleccione «Citas».",
+  "Seleccione «Reservar una cita».",
+  "Seleccione «Consultar sobre un problema de salud».",
+  "Complete y envíe el formulario en línea.",
+  "Su centro de salud le informará de cómo y cuándo responderá a su solicitud."
       ],
       "note": "Este servicio depende de tu centro de medicina general. No utilices un formulario en línea para emergencias."
     },

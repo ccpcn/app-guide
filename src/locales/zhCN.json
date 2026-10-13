@@ -1,0 +1,124 @@
+{
+  "language": "语言",
+  "heading": "NHS App：",
+  "tagline": "快速设置指南",
+  "features": "NHS App 功能",
+  "download": "下载 NHS App",
+  "otherDownload": "下载 NHS App 的其他方式",
+  "expand": "全部展开",
+  "close": "全部收起",
+  "help": "需要更多帮助？",
+  "helpText": "如需了解您的全科医生诊所提供的服务，请联系您的诊所；您也可以访问 NHS App 官方帮助中心。",
+  "official": "NHS App 官方帮助",
+  "emergency": "如遇危及生命的紧急情况，请拨打 999。如需紧急医疗帮助，请使用 NHS 111 服务。",
+  "back": "返回顶部",
+  "skip": "跳转到主要内容",
+  "video": "观看 NHS App 官方视频指南",
+  "note": "温馨提示",
+  "copy": "复制本指南链接",
+  "copied": "链接已复制",
+  "footer": "患者信息指南",
+  "disclaimer": "本页面仅提供信息指导，并非 NHS App 本身。",
+  "information": "如需了解更多信息，请访问：",
+  "loginPrefix": "打开 NHS App，然后",
+  "loginLink": "创建 NHS login 账户或登录现有账户",
+  "loginSuffix": "，使用您的电子邮箱地址操作（NHS 官方网站）。",
+  "featureLabels": [
+    "联系您的全科医生诊所",
+    "查看检查结果",
+    "申请重复处方药",
+    "全科医生诊所预约",
+    "医院转诊",
+    "消息",
+    "代他人管理 NHS 服务"
+  ],
+  "sections": [
+    {
+      "id": "getting-started",
+      "title": "开始使用",
+      "steps": [
+        "从 App Store 或 Google Play 下载 NHS App。",
+        "打开应用程序，使用您的电子邮箱地址创建 NHS login 账户；如果已有账户，请直接登录。",
+        "如果系统要求验证身份，请按照提示操作。",
+        "登录后，打开个人资料（Profile），查找登录设置。如果您的设备支持，可以启用指纹或面部识别登录。"
+      ],
+      "note": "您必须年满 13 周岁，并在英格兰的一家全科医生诊所注册，才能使用 NHS App 服务。"
+    },
+    {
+      "id": "contact-gp",
+      "title": "联系您的全科医生诊所",
+      "steps": [
+  "打开 NHS App，选择“预约”。",
+  "选择“预约就诊”。",
+  "选择“咨询健康问题”。",
+  "填写并提交在线表格。",
+  "您的全科医生诊所（GP）会告知您将如何以及何时回复您的请求。"
+      ],
+      "note": "能否使用此服务取决于您的全科医生诊所。紧急情况下请勿使用在线表格。"
+    },
+    {
+      "id": "test-results",
+      "title": "查看检查结果",
+      "steps": [
+        "在 NHS App 中选择检查结果（Test results）。",
+        "阅读重要信息；如果出现提示，请选择继续（Continue）。",
+        "查看目前可供您查阅的检查结果。"
+      ],
+      "note": "并非所有检查结果都会立即显示。如果您对结果有疑问，请联系负责您诊疗的医疗团队。"
+    },
+    {
+      "id": "prescriptions",
+      "title": "申请重复处方药",
+      "steps": [
+        "选择处方（Prescriptions）。",
+        "选择申请或查看处方（Request or view prescriptions）。",
+        "选择您需要再次配取的长期处方药物。",
+        "核对信息并提交申请。",
+        "如果提供此功能，您可以通过 NHS App 查看申请进度。"
+      ],
+      "note": "请提前申请重复处方药，以免药物用完。部分药物无法通过应用程序申请。"
+    },
+    {
+      "id": "gp-appointments",
+      "title": "全科医生诊所预约",
+      "steps": [
+        "选择预约（Appointments）。",
+        "查看您的全科医生诊所预约。",
+        "如果您的诊所提供相关功能，您可以预约、更改或取消就诊时间。"
+      ],
+      "note": "可预约的时间及相关操作因诊所而异。"
+    },
+    {
+      "id": "hospital-appointments",
+      "title": "医院转诊与预约",
+      "steps": [
+        "选择预约（Appointments）。",
+        "查找医院转诊与预约（Hospital referrals and appointments）。",
+        "查看可用的转诊、等候名单或预约信息。",
+        "如果系统支持，请按照提示管理您的预约。"
+      ],
+      "note": "您能查看和管理哪些信息，取决于医院或医疗服务提供机构。"
+    },
+    {
+      "id": "messages",
+      "title": "消息与通知",
+      "steps": [
+        "选择消息（Messages），阅读全科医生诊所、医院或其他 NHS 服务发送给您的消息。",
+        "如需管理提醒，请打开个人资料（Profile），查找通知（Notifications）。",
+        "按照设备上的提示，允许 NHS App 发送通知。"
+      ],
+      "note": "通知设置可能因设备而异。"
+    },
+    {
+      "id": "family-access",
+      "title": "代他人管理 NHS 服务",
+      "steps": [
+        "打开个人资料（Profile）。",
+        "如果有家庭成员及照护者访问权限（Family and carer access）选项，请选择它。",
+        "选择您已获授权代为管理 NHS 服务的人员。",
+        "使用该人员可用的服务；完成后切换回您自己的个人资料。"
+      ],
+      "note": "您必须获得适当授权，才能访问其他人的 NHS 服务。"
+    }
+  ]
+}

@@ -56,24 +56,51 @@
   font-size: 16px;
 }
 
-/* Mobile */
-@media (max-width: 520px) {
-  .header-content {
-    min-height: 100px;
-    gap: 8px;
-  }
+/* Footer layout */
+/* Footer - same layout on desktop and mobile */
 
-  .brand img {
-    width: 140px;
-  }
+.footer {
+  width: 100%;
+  background: #e8edee;
+  border-top: 1px solid #d8dde0;
+  padding: 20px 0;
+  box-sizing: border-box;
+}
 
-  .language-control {
-    min-width: 130px;
-  }
+.footer .footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
 
-  .language-control select {
-    width: 140px;
-    max-width: 100%;
-    font-size: 14px;
-  }
+  /* Use the existing .container width and padding */
+  max-width: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer .footer-information,
+.footer .footer-nhs-link,
+.footer .accessibility-link {
+  width: 100%;
+  flex: none;
+  min-width: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.footer .footer-information p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.footer a {
+  color: #005eb8;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.footer a:hover {
+  text-decoration-thickness: 2px;
 }

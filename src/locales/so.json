@@ -19,6 +19,7 @@
   "copied": "Xiriiriyaha waa la koobiyeeyay",
   "footer": "Hagaha macluumaadka bukaanka · Waa in nuxurka dib loo eego ka hor daabacaadda",
   "disclaimer": "Kani waa hage macluumaad oo keliya, mana aha NHS App. Weligaa ha gelin faahfaahinta gelitaanka NHS boggan.",
+  "information": "Wixii macluumaad dheeraad ah, booqo: ",
   "loginPrefix": "Fur NHS App oo ",
   "loginLink": "samee NHS login ama ku gal akoonkaaga NHS",
   "loginSuffix": " adigoo isticmaalaya cinwaanka iimaylkaaga (bogga rasmiga ah ee NHS).",
@@ -47,10 +48,12 @@
       "id": "contact-gp",
       "title": "La xiriir xarunta dhakhtarkaaga guud",
       "steps": [
-        "Fur NHS App oo ka raadi Appointments ama ikhtiyaarka lagula xiriirayo xarunta dhakhtarkaaga guud.",
-        "Dooro Contact your GP surgery haddii ikhtiyaarkaas la heli karo.",
-        "Buuxi foomka internetka oo dir.",
-        "Xaruntaadu waxay kuu sheegi doontaa sida iyo goorta ay kuugu jawaabi doonto."
+"Fur NHS App-ka oo dooro 'Ballamaha'.",
+  "Dooro 'Ballan qabso'.",
+  "Dooro 'Weydii su'aal ku saabsan dhibaato caafimaad'.",
+  "Buuxi foomka internetka oo gudbi.",
+  "Xarunta dhakhtarkaaga guud (GP) ayaa kuu sharxi doonta sida iyo goorta ay uga jawaabi doonaan codsigaaga."
+
       ],
       "note": "Helitaanka adeeggan wuxuu ku xiran yahay xarunta dhakhtarkaaga guud. Ha isticmaalin foomka internetka xaaladaha degdegga ah."
     },

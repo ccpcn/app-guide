@@ -19,6 +19,7 @@
   "copied": "Link copiat",
   "footer": "Ghid de informare pentru pacienți · Conținutul trebuie verificat înainte de publicare",
   "disclaimer": "Acesta este un ghid informativ, nu aplicația NHS. Nu introduce niciodată datele de autentificare NHS pe această pagină.",
+  "information": "Pentru mai multe informații, vizitați: ",
   "loginPrefix": "Deschide aplicația NHS și ",
   "loginLink": "creează un cont NHS login sau autentifică-te",
   "loginSuffix": " folosind adresa ta de e-mail (pe site-ul oficial NHS).",
@@ -47,10 +48,12 @@
       "id": "contact-gp",
       "title": "Contactează cabinetul medicului de familie",
       "steps": [
-        "Deschide aplicația NHS și caută Appointments (Programări) sau opțiunea de a contacta cabinetul medicului de familie.",
-        "Selectează Contact your GP surgery (Contactează cabinetul medicului de familie), dacă opțiunea este disponibilă.",
-        "Completează și trimite formularul online.",
-        "Cabinetul îți va explica cum și când îți va răspunde."
+"Deschideți aplicația NHS și selectați „Programări”.",
+  "Selectați „Rezervați o programare”.",
+  "Selectați „Adresați o întrebare despre o problemă de sănătate”.",
+  "Completați și trimiteți formularul online.",
+  "Cabinetul medicului dumneavoastră de familie vă va explica cum și când va răspunde solicitării dumneavoastră."
+
       ],
       "note": "Disponibilitatea acestui serviciu depinde de cabinetul medicului de familie. Nu folosi formularul online în situații de urgență."
     },
