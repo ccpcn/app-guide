@@ -84,7 +84,7 @@ console.log("Translated heading:", t("heading"));
 </header>
   <main id="main">
    <section className="hero" aria-labelledby="page-heading"><div className="container hero-content">
-    <img className="hero-image" src="/images/nhs-app-hero.png" alt="NHS App logo and smartphone with a heart symbol" width="400" height="200"/>
+    <img className="hero-image" src="/images/nhs-app-hero.png" alt="NHS App logo and smartphone with a heart symbol" width="350" height="150"/>
     <h1 id="page-heading">{t('heading')}<span>{t('tagline')}</span></h1>
     <div className="feature-panel"><h2>{t('features')}</h2><ul>{features.map(f=><li key={f.id}><button type="button" onClick={()=>openFeature(f.id)}>{f.label}</button></li>)}</ul></div>
     <div className="download-group"><a className="download-button" href={downloadUrl}><span aria-hidden="true">↓</span>{t('download')}</a><a className="download-fallback" href={URLS.other}>{t('otherDownload')}</a></div>
