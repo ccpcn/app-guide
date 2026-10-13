@@ -80,6 +80,7 @@ console.log("Translated heading:", t("heading"));
       ))}
     </select>
   </div>
+  </div>
 </header>
   <main id="main">
    <section className="hero" aria-labelledby="page-heading"><div className="container hero-content">
